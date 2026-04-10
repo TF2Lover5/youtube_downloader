@@ -4,7 +4,7 @@ A lightweight, transparent YouTube downloader built for people who don't want my
 
 **Platform:** Tested on Linux and Windows. macOS should work but is untested.
 
-![Proof it works](screenshot.png)
+![Proof it works](screenshot.jpg)
 *655MB, 10-hour video. Downloaded without breaking a sweat.*
 
 ---
