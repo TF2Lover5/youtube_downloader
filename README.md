@@ -2,7 +2,7 @@
 
 A lightweight, transparent YouTube downloader built for people who don't want mystery software on their machine. ~300 lines of Python you can read yourself. No Electron, no auto-updates, no telemetry.
 
-![Proof it works](screenshot.png)
+![Proof it works](screenshot.jpg)
 *655MB, 10-hour video. Downloaded without breaking a sweat.*
 
 ---
